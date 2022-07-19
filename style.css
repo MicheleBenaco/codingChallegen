@@ -1,0 +1,68 @@
+body{
+  background-image: url(background.jpg);
+  background-size:cover;
+  
+
+font-family: 'Lato', sans-serif;
+  }
+
+.contenitore{
+  width: 1000px;
+  margin: 30px auto; /*uno solo per tutti, 2 per sopra e sotto,*/
+  padding: 150px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.logo{
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.textlogo{
+  color: green;
+  text-align: center;
+}
+.prenotazione{
+  background-color: green;
+  text-align: center;
+  padding: 10px;
+  display: block;
+}
+.statomonopattino{
+margin: 30px auto ;
+
+
+}
+.scritte1{
+  color: white;
+  font-size: 25px;
+  text-transform: capitalize;
+  display: inline-block;
+}
+h5,h3{
+  padding: 2px;
+  margin: 1px;
+  color: white;
+}
+.box1{
+  background-color: orange;
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+}
+.box2{
+  background-color: green;
+  width: 500px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.box3{
+  background-color: red;
+  width: 190px;
+  height: 30px;
+  border-radius: 5px;
+
+}
